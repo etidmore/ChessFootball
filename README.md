@@ -118,8 +118,7 @@ Pass Modifiers:
 - +1 if Lead Blocker within 2 squares of QB
 
 Pass Restrictions:
-- Ineligible Receivers (Heavies, Strongs, Blocking Captains)
-  may only move 1 square downfield before the pass
+- Ineligible Receivers - Heavies may only move 1 square downfield before the pass, during a pass play
 
 10. PLAY ACTION SYSTEM
 - Trigger: QB adjacent to non-Heavy ally
