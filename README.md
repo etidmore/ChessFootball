@@ -7,6 +7,7 @@ tactical abilities. Teams advance a ball into the opponent's end zone using spec
 pieces with unique football abilities.
 
 2. BOARD & SCALE
+
 Size:                48 × 16 squares (6×2 chessboards)
 Real-world Scale:    120 yards × 40 yards
 Positions per square: NW, NE, Center, SW, SE
