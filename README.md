@@ -126,13 +126,7 @@ Pass Restrictions:
 - Ball Return: When adjacency ends, team chooses who holds ball
 - Counter: If QB and fake both tackled, ball defaults to QB
 
-11. COLLISION RESOLUTION
-- When two pieces attempt to occupy same position:
-  - Each rolls 1d6
-  - Higher wins; loser returns to starting square
-  - Tie: Both return to starting square
-
-12. ALL PIECE TYPES & ABILITIES
+11. ALL PIECE TYPES & ABILITIES
 
 STANDARD PIECES
 
@@ -211,7 +205,7 @@ Lineman (Heavy Captain)
 - Impact (1): Same as Lead Blocker
 - Anchor (2): Boost adjacent Heavy +1 movement, become immovable (once/4 downs)
 
-13. VICTORY CONDITIONS
+12. VICTORY CONDITIONS
 - Game Length: 4 possessions per player per half
 - Winner: Highest score at end of regulation
 - Overtime: 1 possession per player; highest score wins
