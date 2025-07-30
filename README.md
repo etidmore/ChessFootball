@@ -212,24 +212,7 @@ Lineman (Heavy Captain)
 - Impact (1): Same as Lead Blocker
 - Anchor (2): Boost adjacent Heavy +1 movement, become immovable (once/4 downs)
 
-13. STRATEGIC DEPTH
-
-Key Decisions:
-- Movement vs. Ability tradeoffs
-- Risk/Reward: e.g., Chop Block affects both players
-- Micro-Positioning: 5 positions per square
-- Coordination: Buffs like Chip Block reward formations
-- Limited-use abilities (React, Route Running, Juke, Anchor)
-- Movement Order Matters
-
-Unique Mechanics:
-- Direction Costs for some roles
-- Hybrid Turn System (Concurrent + Sequential)
-- Captain Specialization = Major tactical pivot
-- Pressure System (via Rusher)
-- Planning Boards enable complex setup and bluffing
-
-14. VICTORY CONDITIONS
+13. VICTORY CONDITIONS
 - Game Length: 4 possessions per player per half
 - Winner: Highest score at end of regulation
 - Overtime: 1 possession per player; highest score wins
